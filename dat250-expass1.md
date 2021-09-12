@@ -18,7 +18,7 @@ https://guarded-ravine-18006.herokuapp.com/
 
 # Hand-In 2
 
-Here is a screenshot of the generated table, by using simple `System.out.println()` to console.
+Here is a screenshot of the generated table, by using simple `System.out.println()` to console (this is from experiment 1).
 ![Screenshot of generated dbs](table_out.png)
 
 ## technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
