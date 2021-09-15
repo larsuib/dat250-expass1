@@ -11,7 +11,7 @@ First I looked into installing it manually, but soon realized that the `pom.xml`
 * [Experiment 2](https://github.com/larsuib/dat250-experiment-2-2)
 
 ## an explanation of how you inspected the database tables and what tables were created. For the latter, you may provide screenshots.
-I inspected the tables by first printing, but then using boolean logic to confirm my "sightings", see screenshot below. There was a table for each of the tables listed in the task, e.g. "Person" and "CreditCard".
+I inspected the tables by first printing, but then using boolean logic to confirm my "sightings", see screenshot below (EDIT: later I realized I did not use the `query`-var, but instead used the `q`-var higher up in the file - they are the same query). There was a table for each of the tables listed in the task, e.g. "Person" and "CreditCard".
 ![](testing.png)
 
 ## any pending issues with this assignment that you did not manage to solve
