@@ -45,5 +45,9 @@ Delete operation:
 ![](res/customMapReduce.png)
 
 ## Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
-Because you can see how each product is doing, in this case: chocolates.
+Because you can see how each product is doing, in this case: *chocolates*. This function can be useful if used in a more general way, e.g. substituting "chocolates" with the product you want to find out performance of.
+The collection obtained is a list of persons, where the value is how much each person spent on chocolates.
+
 ## Any pending issues with this assignment which you did not manage to solve
+Per now, there is no pending issues.
+
