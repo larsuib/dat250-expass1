@@ -1,6 +1,10 @@
 # Expass 4
 I only did the compulsory tasks.
 
+## Screenshots
+![First GET](res/get_counters.png)
+![First PUT](res/put_counters.png)
+
 ## Supported requests
 Basic CRUD-operations: `create`, `read`, `update` and `delete`.
 
