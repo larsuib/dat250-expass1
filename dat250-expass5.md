@@ -12,3 +12,4 @@ There was no technical problems.
 https://github.com/larsuib/dat250-expass5
 
 ## Pending issues
+Theere is no pending issues. 😄
