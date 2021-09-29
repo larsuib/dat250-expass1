@@ -2,8 +2,8 @@
 I only did the compulsory tasks.
 
 ## Screenshots
-![First GET](res/get_counters.png)
-![First PUT](res/put_counters.png)
+<img src="res/get_counters.png" width="30%">
+<img src="res/put_counters.png" width="30%">
 
 ## Supported requests
 Basic CRUD-operations: `create`, `read`, `update` and `delete`.
