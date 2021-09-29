@@ -3,6 +3,7 @@ I only did the compulsory tasks.
 
 ## Screenshots
 <img src="res/get_counters.png" width="30%">
+<br><br>
 <img src="res/put_counters.png" width="30%">
 
 ## Supported requests
