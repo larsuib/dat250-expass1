@@ -1,8 +1,9 @@
 # Expass 5
 
 ## Screenshots of some steps
-<img src="res/groovy_app.png" width="50%">
 <img src="res/hello_lars.png" width="50%">
+<br><br><br>
+<img src="res/groovy_app.png" width="50%">
 
 ## Technical problems
 There was no technical problems.
