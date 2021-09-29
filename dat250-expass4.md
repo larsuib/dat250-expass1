@@ -25,5 +25,8 @@ delete("/todos/:id");
 ## Technical problems
 Not that many technical problems was encountered. I needed to install the postman-desktop tool to make the requests work.
 
+## Pending Issues
+No pending issues with the mandatory tasks as far as I know. I did not do the other optional tasks (3- and 4).
+
 ## Link to repo
 https://github.com/larsuib/dat250-expass4
